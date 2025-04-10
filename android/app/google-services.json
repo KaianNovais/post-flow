@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972921846441",
+    "project_id": "post-flow-a0adf",
+    "storage_bucket": "post-flow-a0adf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972921846441:android:3be20e2090194d1efcc7b8",
+        "android_client_info": {
+          "package_name": "com.example.post_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSTGTO9VZURNlAYCiddOkmB8f8XYf9Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
